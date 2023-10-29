@@ -4,6 +4,8 @@ import 'package:get/get.dart';
 
 class ReceiptsController extends GetxController {
 
+
+  
   final List table = [
     'Sai Krishna',
     'Prem Kumar',
